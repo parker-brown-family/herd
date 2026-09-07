@@ -70,6 +70,6 @@ implementation genuinely demands it.
 
 ## Status
 
-Shipping. `herd` 0.1.1 is published as the `herd-bus` crate. Decision records go
+Shipping. `herd` 0.2.0 is published as the `herd-bus` crate (`cargo install herd-bus`; the crate is `herd-bus` only because crates.io's `herd` is a squat from 2022, and the binary is `herd`). Decision records go
 in `docs/decisions/`, numbered and append-only like the sibling repository's,
 and a change that carries a decision gets one before it gets code.
